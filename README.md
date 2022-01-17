@@ -1,7 +1,7 @@
 # 3D-graphics
 ---
 
-![](https://github.com/BjorneEk/3d-graphics/blob/teapot-2.png?raw=true)
+![](https://raw.githubusercontent.com/BjorneEk/3d-graphics/main/teapot-2.png)
 **A program that reads obj files and renders them in a window.**
 
 The goal with the project was to render a [Utah-teapot](https://graphics.cs.utah.edu/teapot/) in a window using only code written myself. I was mostly successful in doing this however i had to do some research and learn about projection matrices as well as freshen up on cross products.

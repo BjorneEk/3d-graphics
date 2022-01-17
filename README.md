@@ -85,4 +85,4 @@ $ ./3D-graphics <filename.obj> <FOREGROUND_RGB> <BACKGROUND_RGB>
 | scroll wheel     |   move object in Z dir  |
 
 
-![](https://github.com/BjorneEk/3d-graphics/blob/rendered-cow.png?raw=true)
+![](https://raw.githubusercontent.com/BjorneEk/3d-graphics/main/rendered-cow.png)

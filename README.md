@@ -86,3 +86,7 @@ $ ./3D-graphics <filename.obj> <FOREGROUND_RGB> <BACKGROUND_RGB>
 
 
 ![](https://raw.githubusercontent.com/BjorneEk/3d-graphics/main/rendered-cow.png)
+
+<img alt="lang" src="https://img.shields.io/github/languages/top/bjorneek/3d-graphics"/>
+<img alt="size" src="https://img.shields.io/github/repo-size/bjorneek/3d-graphics"/>
+<img alt="lines" src="https://img.shields.io/tokei/lines/github/bjorneek/3d-graphics"/>
